@@ -20,10 +20,11 @@ Step 4: Define the Text Summarization Function using a simple frequency-based ap
     - Calculate a score for each sentence based on the sum of word frequencies.<br>
     
     - Select the top N sentences with the highest scores to form the summary.<br>
-    
+
 Step 5: Construct the main program to read the paragraph  and perform text summarization<br>
 
       - Generate and print the original text.<br>
+      
       - Generate and print the text summary using the  Text Summarization function<br>
       
 <H3>Program:</H3>
